@@ -36,6 +36,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
+### :fire: ***Моя статистика:***
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lionen89&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### ***Контакты:***
 ### 📧 Почта: lionen@mail.ru
