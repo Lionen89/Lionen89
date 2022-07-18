@@ -11,3 +11,24 @@
     </a>
   </p>
 </p>
+
+### ***О себе:***
+
+* 👨‍💻 Стараюсь писать чистый, читабельный код
+  
+* 😎 Хочу работать в команде опытных профессионалов
+  
+* 🚀 Осваиваю новые технологии
+  
+* 🔥 Хочу работать в высоконагруженных проектах
+  
+* ⏱ Учусь анализировать сложность алгоритмов / улучшать производительность 
+
+### 🔨 ***Используемые языки и технологии:***
+![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=css3)
+![Javascript](https://img.shields.io/badge/-Javascript-0d1117?style=for-the-badge&logo=Javascript)
+![Webpack](https://img.shields.io/badge/-Webpack-0d1117?style=for-the-badge&logo=Webpack)
+![ReactJS](https://img.shields.io/badge/-ReactJS-0d1117?style=for-the-badge&logo=React)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
