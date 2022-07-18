@@ -39,6 +39,5 @@
 
 ### ***Контакты:***
 ### 📧 Почта: lionen@mail.ru
-[![Telegram Badge](https://cdn-icons-png.flaticon.com/128/906/906377.png)](https://tlgg.ru/Lionen)
-### 🌐 Telegram: 
+### 🌐 Telegram: [@Lionen](https://tlgg.ru/Lionen)
 ![stats](https://komarev.com/ghpvc/?username=Lionen89&style=flat-square&color=blueviolet)
