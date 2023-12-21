@@ -5,8 +5,8 @@
   <h1 align="center">Привет! Меня зовут Илья
   </h1>
   <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?size=24&&color=1384F7FF&width=800&height=40&font=Fira%20Code&lines=%D0%AF+front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg" align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?size=24&&color=1384F7FF&width=500&height=40&font=Fira%20Code&lines=%D0%AF+front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA">
     </a>
   </p>
 </p>
