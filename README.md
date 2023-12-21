@@ -6,7 +6,7 @@
     <a href="https://vk.com/lionen" target="_blank">
       Илья
     </a> 
-    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
+    <p align="center">Я - frontend разработчик</p>
   </h1>
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
